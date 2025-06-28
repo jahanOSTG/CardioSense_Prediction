@@ -54,4 +54,3 @@ The dataset contains patient information like:
 ---
 
 
-python heart_disease_predictor.py
